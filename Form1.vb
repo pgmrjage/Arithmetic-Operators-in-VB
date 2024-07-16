@@ -1,6 +1,6 @@
 ﻿Public Class Form1
 
-    Dim x, y, ans As Integer
+    Dim x, y, ans As Double
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
         x = Val(TextBox1.Text)
